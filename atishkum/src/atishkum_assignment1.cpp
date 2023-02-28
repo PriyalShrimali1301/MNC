@@ -20,7 +20,7 @@
  *
  * This contains the main function. Add further description here....
  */
-#include "stdafx.h"
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
